@@ -1,4 +1,3 @@
-Sure! Here's a tailored README for your CRUD App using EJS:
 
 ---
 
