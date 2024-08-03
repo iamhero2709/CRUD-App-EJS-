@@ -1,4 +1,4 @@
-CRUD App with EJS
+#CRUD App with EJS
 This repository contains a simple CRUD (Create, Read, Update, Delete) application built using EJS (Embedded JavaScript) for templating. The application allows users to perform basic CRUD operations on a dataset.
 
 Table of Contents
